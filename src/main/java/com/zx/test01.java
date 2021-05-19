@@ -15,5 +15,7 @@ public class test01 {
         System.out.println("Hello hot-fix test!");
 
         System.out.println("Hello hot-fix test2!");
+
+        System.out.println("push test01");
     }
 }
