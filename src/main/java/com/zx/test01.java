@@ -7,8 +7,13 @@ public class test01 {
         System.out.println("Hello git3!");
         System.out.println("Hello git3!");
         System.out.println("Hello master test!");
+        System.out.println("Hello hot-fix first!");
+        System.out.println("Hello hot-fix first!");
+        System.out.println("Hello hot-fix first!");
 
         System.out.println("Hello master test2!");
+        System.out.println("Hello hot-fix test!");
 
+        System.out.println("Hello hot-fix test2!");
     }
 }
