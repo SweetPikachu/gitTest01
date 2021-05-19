@@ -10,5 +10,8 @@ public class test01 {
         System.out.println("Hello hot-fix first!");
         System.out.println("Hello hot-fix first!");
 
+        System.out.println("Hello hot-fix test!");
+
+        System.out.println("Hello hot-fix test2!");
     }
 }
